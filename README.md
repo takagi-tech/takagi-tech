@@ -4,41 +4,37 @@
 
 > I am researching applications of generative AI and LLMs in clinical settings, while learning web application development, on-premise server operations, and AI-agent-based development workflows.
 
-## About Me
+## 基本情報（About Me）
 
-情報系の大学院生です。現在は修士課程1年で、2028年に修了予定です。
+  - 所属: 情報系大学院 修士課程1年 / 博士前期課程1年（M1 / Master's Program）
+  - 専攻: 医療情報学 / データサイエンス（Medical Informatics / Data Science）
+  - 修了予定: 2028年（Expected Graduation: 2028）
+  - GitHub: 研究・学習・個人開発で取り組んだ内容を、公開できる範囲で発信
 
-> Graduate student, M1 / Master's program  
-Expected graduation: 2028
+## 技術・ツール（Skills & Tools）
 
-## 技術スタック（Skills）
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,pytorch,docker,gcp,linux,bash,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,pytorch,mysql,docker,gcp,linux,bash,git,github)](https://skillicons.dev)
+- Languages: **Python**, JavaScript, SQL
+- Frontend: HTML, CSS, React, HTMX
+- Backend: **FastAPI**, Django, Flask, Node.js, REST API
+- Database: MySQL, PostgreSQL
+- Infrastructure: **Linux**, **Docker**, **Docker Compose**, **Google Cloud Run**
+- Server / Runtime: Uvicorn, Gunicorn, Nginx
+- Shell / Terminal: **Bash**, Zsh, CMUX
+- Libraries:
+  - ML: **PyTorch**, **scikit-learn**, **pandas**, **NumPy**
+  - LLM: **LangChain**, **Hugging Face Transformers**, **vLLM**, **FAISS**, **Chroma**
+- Tools: **Git**, **GitHub**, **JupyterLab**, **VS Code**, **Codex**, **Claude Code**
 
-- Languages: Python, JavaScript, HTML, CSS
-- Frontend: React
-- Backend: Python
-- AI / LLM: PyTorch, LangChain, Hugging Face, prompt engineering, AI agents
-- Infrastructure: Linux, Bash, Docker, Docker Compose, Google Cloud Run
-- Database: MySQL
-- Tools: Git, GitHub, Codex, Claude Code
+## 興味のあること（Interests）
 
-## Interests
+  - Webアプリケーションの開発（Web Application Development）
+  - データ分析（Data Analysis）
+  - バイブコーディング（Vibe Coding）
+  - ハーネスエンジニアリング（Harness Engineering）
 
-- Web backend
-- Security
-- Medical AI
-- Generative AI / LLM applications
-- AI agent development
-- On-premise infrastructure
-- Competitive programming
+## 各種アカウント（Accounts）
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takagi-tech&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takagi-tech&layout=compact&theme=default&hide_border=true)
-
-## Links
-
-[![GitHub](https://img.shields.io/badge/GitHub-takagi--tech-181717?style=flat-square&logo=github)](https://github.com/takagi-tech)
-[![Zenn](https://img.shields.io/badge/Zenn-takagi__tech-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/takagi_tech)
+[![GitHub](https://img.shields.io/badge/GitHub-takagi--tech-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://github.com/takagi-tech)
+[![Zenn](https://img.shields.io/badge/Zenn-takagi__tech-3EA8FF?style=flat-square&logo=zenn&logoColor=white&labelColor=3EA8FF)](https://zenn.dev/takagi_tech)
