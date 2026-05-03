@@ -1,59 +1,44 @@
-# takagi-tech
+# Hello, I'm takagi-tech
 
-Graduate student interested in web application development, backend systems, security, and AI applications.
+医療現場における生成AI・LLMの応用研究に取り組みながら、Webアプリケーション開発、オンプレミス環境でのサーバ運用、AIエージェントを活用した開発環境づくりを学んでいます。
 
-日本語での詳しい自己紹介は下にまとめています。
+> I am researching applications of generative AI and LLMs in clinical settings, while learning web application development, on-premise server operations, and AI-agent-based development workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-takagi--tech-181717?style=flat-square&logo=github)](https://github.com/takagi-tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-preparing-1AA7ED?style=flat-square)](#)
-[![Qiita](https://img.shields.io/badge/Qiita-preparing-55C500?style=flat-square&logo=qiita&logoColor=white)](#)
-[![Protopedia](https://img.shields.io/badge/Protopedia-preparing-00B8D4?style=flat-square)](#)
+## About Me
 
-## About
+情報系の大学院生です。現在は修士課程1年で、2028年に修了予定です。
 
-|  | Japanese | English |
-| --- | --- | --- |
-| Position | 情報系の大学院生、修士課程1年 / 博士前期課程1年 | Graduate student, M1 / Master's program |
-| Graduation | 2028年卒業予定 | Expected graduation: 2028 |
-| Focus | Webアプリケーション開発を中心に学習中 | Learning mainly web application development |
+> Graduate student, M1 / Master's program  
+Expected graduation: 2028
 
-バックエンド、セキュリティ、AI活用に関心があります。学習内容や制作物を、公開できる範囲で整理していきます。
+## 技術スタック（Skills）
 
-## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,pytorch,mysql,docker,gcp,linux,bash,git,github)](https://skillicons.dev)
 
 - Languages: Python, JavaScript, HTML, CSS
 - Frontend: React
 - Backend: Python
+- AI / LLM: PyTorch, LangChain, Hugging Face, prompt engineering, AI agents
+- Infrastructure: Linux, Bash, Docker, Docker Compose, Google Cloud Run
 - Database: MySQL
-- Tools: Git, GitHub
+- Tools: Git, GitHub, Codex, Claude Code
 
 ## Interests
 
 - Web backend
 - Security
+- Medical AI
+- Generative AI / LLM applications
+- AI agent development
+- On-premise infrastructure
 - Competitive programming
-- AI applications
-
-## Recent Activities
-
-- 公開できる制作物を整理中
-- GitHubプロフィールとポートフォリオを整備中
-- GitHubプロフィールREADMEを整備中
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takagi-tech&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takagi-tech&layout=compact&theme=default&hide_border=true)
 
-## Portfolio
-
-公開できる制作物を整理中です。代表的なリポジトリは、準備でき次第このセクションに追加します。
-
 ## Links
 
-- GitHub: https://github.com/takagi-tech
-- Portfolio: preparing
-- Qiita: preparing
-- Protopedia: preparing
+[![GitHub](https://img.shields.io/badge/GitHub-takagi--tech-181717?style=flat-square&logo=github)](https://github.com/takagi-tech)
+[![Zenn](https://img.shields.io/badge/Zenn-takagi__tech-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/takagi_tech)
