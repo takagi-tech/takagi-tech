@@ -1,17 +1,23 @@
-# Hi, I'm takagi-tech
+# takagi-tech
 
-情報系の専門学校に通う学生です。Webアプリケーション開発を中心に、フロントエンド、バックエンド、データベース、Git/GitHub を学んでいます。
+Graduate student interested in web application development, backend systems, security, and AI applications.
+
+日本語での詳しい自己紹介は下にまとめています。
 
 [![GitHub](https://img.shields.io/badge/GitHub-takagi--tech-181717?style=flat-square&logo=github)](https://github.com/takagi-tech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-preparing-1AA7ED?style=flat-square)](#)
 [![Qiita](https://img.shields.io/badge/Qiita-preparing-55C500?style=flat-square&logo=qiita&logoColor=white)](#)
 [![Protopedia](https://img.shields.io/badge/Protopedia-preparing-00B8D4?style=flat-square)](#)
 
-## Profile
+## About
 
-- 情報系の専門学校生
-- 2027年卒業予定
-- Webアプリケーション開発を中心に学習中
+|  | Japanese | English |
+| --- | --- | --- |
+| Position | 情報系の大学院生、修士課程1年 / 博士前期課程1年 | Graduate student, M1 / Master's program |
+| Graduation | 2028年卒業予定 | Expected graduation: 2028 |
+| Focus | Webアプリケーション開発を中心に学習中 | Learning mainly web application development |
+
+バックエンド、セキュリティ、AI活用に関心があります。学習内容や制作物を、公開できる範囲で整理していきます。
 
 ## Skills
 
