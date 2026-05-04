@@ -1,4 +1,9 @@
-# Hello, I'm takagi-tech
+<h1 align="center"> Hello! I'm takagi-tech. </h1>
+
+<p align="center">
+  <strong>Medical Informatics / Data Science</strong><br>
+  🤖 Generative AI & LLMs in Medical 😷
+  </p>
 
 医療現場における生成AI・LLMの応用研究に取り組みながら、Webアプリケーション開発、オンプレミス環境でのサーバ運用、AIエージェントを活用した開発環境づくりを学んでいます。
 
