@@ -1,4 +1,4 @@
-# Hello, I'm takagi-tech✋
+# Hello, I'm takagi-tech
 
 医療現場における生成AI・LLMの応用研究に取り組みながら、Webアプリケーション開発、オンプレミス環境でのサーバ運用、AIエージェントを活用した開発環境づくりを学んでいます。
 
