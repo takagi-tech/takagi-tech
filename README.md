@@ -9,23 +9,23 @@
   - 所属: 情報系大学院 修士課程1年 / 博士前期課程1年（M1 / Master's Program）
   - 専攻: 医療情報学 / データサイエンス（Medical Informatics / Data Science）
   - 修了予定: 2028年（Expected Graduation: 2028）
-  - GitHub: 研究・学習・個人開発で取り組んだ内容を、公開できる範囲で発信
+  - GitHub: 研究や個人開発で取り組んだ内容を発信
 
 ## 技術・ツール（Skills & Tools）
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,pytorch,docker,gcp,linux,bash,git,github)](https://skillicons.dev)
 
-- Languages: **Python**, JavaScript, SQL
-- Frontend: HTML, CSS, React, HTMX
-- Backend: **FastAPI**, Django, Flask, Node.js, REST API
-- Database: MySQL, PostgreSQL
-- Infrastructure: **Linux**, **Docker**, **Docker Compose**, **Google Cloud Run**
-- Server / Runtime: Uvicorn, Gunicorn, Nginx
-- Shell / Terminal: **Bash**, Zsh, CMUX
+- Languages: **`Python`**, `JavaScript`, `SQL`
+- Frontend: `HTML`, `CSS`, `React`, `HTMX`
+- Backend: **`FastAPI`**, `Django`, `Flask`, `Node.js`, `REST API`
+- Database: `MySQL`, `PostgreSQL`
+- Infrastructure: **`Linux`**, **`Docker`**, **`Docker Compose`**, **`Google Cloud Run`**
+- Server / Runtime: `Uvicorn`, `Gunicorn`, `Nginx`
+- Shell / Terminal: **`Bash`**, **`Zsh`**, **`CMUX`**
 - Libraries:
-  - ML: **PyTorch**, **scikit-learn**, **pandas**, **NumPy**
-  - LLM: **LangChain**, **Hugging Face Transformers**, **vLLM**, **FAISS**, **Chroma**
-- Tools: **Git**, **GitHub**, **JupyterLab**, **VS Code**, **Codex**, **Claude Code**
+  - ML: **`PyTorch`**, **`scikit-learn`**, **`pandas`**, **`NumPy`**
+  - LLM: **`LangChain`**, **`Hugging Face Transformers`**, **`vLLM`**, **`FAISS`**, **`Chroma`**
+- Tools: **`Git`**, **`GitHub`**, **`JupyterLab`**, **`VS Code`**, **`Codex`**, **`Claude Code`**
 
 ## 興味のあること（Interests）
 
